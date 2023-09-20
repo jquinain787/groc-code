@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+.box1 {
+    background-color: rgb(195, 195, 223);
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.borderpic1 {
+    width: 625px;
+    height: 300px;
+    padding: 20px;
+}
+
+h2 {
+    border: 2px solid #101608;
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    width: 580px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+
+
+
